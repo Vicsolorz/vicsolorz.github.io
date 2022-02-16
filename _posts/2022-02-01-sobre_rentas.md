@@ -8,7 +8,7 @@ categories:
   -data analysis
 ---
 
-## Te has preguntado ¿Estoy pagando mucho de renta? 
+## Te has preguntado si ¿Están pagando mucho de renta? 
 
 Este post es para ejemplificar como el análisis de datos puede ayudarte a tomar una mejor decisión en algo tan cotidian como saber ¿Cúanto estoy pagando de renta? ¿Es caro o barato? Este post dejará de lado ciertos criterios como amenidades y lujos. Esta misma lógica se puede emplear a la compra de cualquier bien inmuebles no solo renta.  
 
